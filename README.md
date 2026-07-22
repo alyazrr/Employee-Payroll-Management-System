@@ -27,6 +27,7 @@ Alya Zahra
 EMPLOYEE PAYROLL MANAGEMENT SYSTEM
 
 Company Name      : PT SINERGI
+
 Employee Name     : Budi Santoso
 Employee ID       : EMP001
 
